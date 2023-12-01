@@ -1,4 +1,4 @@
-// By endus
+// by endus
 
 /* This is a program where you can enter the first 9 digits of an ISBN-10 number and it will calculate a checksum using this formula:
 ( (1* d1) + (2 * d2) + (3 * d3) + (4 * d4) + (5 * d5) + (6 * d6) + (7 * d7) + (8 * d8) + (9 * d9) ) % 11 */
